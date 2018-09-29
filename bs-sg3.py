@@ -30,4 +30,4 @@ for list in page_list:
         sgtable.insert(dict(name=author_name1, article=subject_title))
     print(rStart+count,count,"================")
     count+=1
-#    time.sleep(5)
+#    time.sleep(5)  
